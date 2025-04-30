@@ -1,0 +1,74 @@
+# 📊 Dashboard de Contratos – Simulação Jurídica com Power BI
+
+Este projeto é uma simulação de como aplicar **Power BI** e **análise de dados** no acompanhamento de **contratos jurídicos**, com foco em eficiência, controle e visualização estratégica.
+
+---
+
+## 🌟 Objetivo
+
+Demonstrar como ferramentas de **Business Intelligence** podem auxiliar na **gestão de contratos** e na **análise jurídica preventiva**, apoiando advogados e departamentos jurídicos.
+
+---
+
+## 🧲 Base de Dados
+
+O arquivo `contratos_exemplo.csv` contém dados fictícios de contratos:
+
+- Tipo de contrato
+- Partes envolvidas
+- Data de assinatura
+- Valor
+- Situação (ativo, rescindido, vencido)
+- Risco (baixo, médio, alto)
+
+---
+
+## 📊 Visualizações Criadas
+
+- Número total de contratos por tipo
+- Contratos vencidos x vigentes
+- Valores totais por tipo
+- Análise de risco contratual
+- Filtros dinâmicos por status, data e valor
+
+> ⚡ Visualização será incluída aqui com imagem: `imagens/dashboard_preview.png`
+
+---
+
+## ⚖️ Aplicação Jurídica
+
+- **Prevenção de riscos**: Identificar contratos com alto risco e vencimento próximo
+- **Gestão estratégica**: Visualizar distribuição e valores para renegociação
+- **Tomada de decisão**: Apoiar ações preventivas ou corretivas com base em dados
+
+---
+
+## 🚀 Ferramentas Utilizadas
+
+- Power BI
+- Excel
+- Análise de Dados
+- Noções de Direito Contratual
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+contratos-dashboard/
+├── README.md
+├── dados/
+│   └── contratos_exemplo.csv
+├── imagens/
+│   └── dashboard_preview.png
+└── relatorio/
+    └── resumo_juridico.md
+```
+
+---
+
+## 👩‍⚖️ Sobre mim
+
+Sou advogada com experiência em contratos, dados e tecnologia aplicada ao Direito. Estou em formação em **Power BI** e **Análise de Dados**, e desenvolvo projetos que integram o jurídico com soluções práticas e visuais.
+
+Conecte-se comigo no [LinkedIn](htt://www.linkedin.com/in/bruna-silva-barbosa-valadão-4a407a86) ou confira meu [portfólio](https:https://github.com/bndjdjk/bndjdjk/new/main#:~:text=Migalhas%20de%20p%C3%A3o-,bndjdjk,-/).
